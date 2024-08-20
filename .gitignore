@@ -1,0 +1,16 @@
+.vscode
+**/.vs
+build/
+bin/
+.vs/
+*.asv
+**/slprj
+*.slxc
+**/codegen
+*.mexw64
+**/old
+work/
+**/cache/
+Drivers/MissionPlanner-stable.msi
+*.autosave
+VSDDL_Packages/
