@@ -1,3 +1,10 @@
+# Autopilot for Tilt Wing Aircraft - Risk-Reduction-Test-Vehicle (RRTV)
+
+## Hello there 👋
+
+This Matlab-Simulink-deployed autopilot is designed as a replacement for the stock PX4 flight controller and guidance system. This provides as
+interface layer for all communication remote-pilot functionality.
+
 # Integration with PX4
 This is intended for use with my [PX4 Simulink I/O Framework](https://github.com/YevheniiKovryzhenko/PX4_SIMULINK_IO_Framework.git), and it will not work with the stock PX4.
 You may also find [KGroundControl](https://github.com/YevheniiKovryzhenko/KGroundControl.git) useful for your communication-related tasks. 
