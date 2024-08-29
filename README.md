@@ -2,7 +2,7 @@
 
 ## Hello there 👋
 
-This Matlab-Simulink-deployed autopilot is designed as a replacement for the stock PX4 flight controller and guidance system. This provides as
+This Matlab-Simulink-deployed autopilot is designed as a replacement for the stock PX4 flight controller and guidance system. This provides an
 interface layer for all communication remote-pilot functionality.
 
 # Integration with PX4
