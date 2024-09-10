@@ -38,3 +38,18 @@ For more details, check out my [KGroundControl](https://github.com/YevheniiKovry
 were all part of this project. 
 
 I am still in the process of publishing journal papers that have directly used this work, so I will keep this section actively updated. Feel free to credit [me](https://scholar.google.com/citations?user=P812qiUAAAAJ&hl=en) by citing any of my relevant works.
+Some of the articles that directly used this work:
+* Comer, A., Chakraborty, I., Kovryzhenko, Y., Taheri, E., Bhandari, R., Kunwar, B., and Putra, S., “Flight Testing of Explicit Model-Following Trajectory Control System for Lift-Plus-Cruise and Tilt-Wing Configurations,” presented at the VFS 80 Forum, Montreal, Canada, 2024. https://doi.org/10.4050/F-0080-2024-1306
+    ```
+  	@inproceedings{comer_flight_2024,
+    	address = {Montreal, Canada},
+    	title = {Flight Testing of Explicit Model-Following Trajectory Control System for Lift-Plus-Cruise and Tilt-Wing Configurations},
+    	copyright = {All rights reserved},
+    	url = {https://doi.org/10.4050/F-0080-2024-1306},
+    	doi = {10.4050/F-0080-2024-1306},
+    	booktitle = {VFS 80 Forum},
+    	author = {Comer, Anthony and Chakraborty, Imon and Kovryzhenko, Yevhenii and Taheri, Ehsan and Bhandari, Rajan and Kunwar, Bikash and Putra, Stefanus},
+    	month = may,
+    	year = {2024},
+    }
+  	```
